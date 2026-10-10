@@ -18,25 +18,25 @@ The dataset contains California housing information, including geographical coor
 
 📌 Histograms were used to understand the distributions of numerical features and identify skewness and potential extreme values.
 
-![Feature Distribution Analysis](images/feature_distributions.png)
+![Feature Distribution Analysis](/feature_distributions.png)
 
 ### 2️⃣ Outlier Analysis
 
 📌 Boxplots were used to identify potential outliers in numerical features. These observations were investigated as potential extreme values rather than automatically removed.
 
-![Outlier Analysis](images/feature_boxplots.png)
+![Outlier Analysis](/feature_boxplots.png)
 
 ### 3️⃣ Median Income vs. House Value
 
 📌 Scatter plot analysis revealed a positive relationship between median income and median house value, indicating that higher-income areas generally tend to have higher house prices.
 
-![Median Income vs House Value](images/income_vs_house_value.png)
+![Median Income vs House Value](/income_vs_house_value.png)
 
 ### 4️⃣ Correlation Heatmap
 
 📌 The correlation heatmap highlights relationships between numerical features. `median_income` showed a strong positive correlation with `median_house_value`, while several housing and population features showed high correlations with one another.
 
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](/correlation_heatmap.png)
 
 ## 🛠 Technologies Used
 
